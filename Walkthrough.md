@@ -48,4 +48,4 @@ The first time you open the WSUS Server, you will be prompted with a setup wizar
 - On the **Status** portion select **Any** and hit the **Refresh** button.
 And with everything configured correctly you should have this:
 ![Complete](png/WSUS%2012.png)
-## **Congrats , You've Configured Your First WSUS Server**
+## **Congrats🎉, You've Configured Your First WSUS Server‼️**
